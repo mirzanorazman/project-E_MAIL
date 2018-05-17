@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "tree.h"
 
 bool Insert(TREENODE* &root, Subscriber user)

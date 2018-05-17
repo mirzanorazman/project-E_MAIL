@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #ifndef labgui_h
 #define labgui_h
 

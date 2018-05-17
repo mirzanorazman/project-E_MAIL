@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 // TREEFILE.CPP
 #include <fstream>
 #include <string.h>

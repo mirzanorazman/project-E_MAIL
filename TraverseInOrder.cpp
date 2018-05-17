@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "tree.h"
 #include <sstream>
 void TraverseInOrder(TREENODE *root)

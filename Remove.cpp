@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "tree.h"
 
 bool Remove(TREENODE* &root, const Subscriber user){

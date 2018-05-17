@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "labgui.h"
 std::string billSummary;
 void billCB(Fl_Button*,void*){

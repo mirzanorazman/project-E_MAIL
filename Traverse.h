@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 typedef void CALLBACK(TREENODE *node) { 
     double value;
     value = (x*0.2) - 0.6;

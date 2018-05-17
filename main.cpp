@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "labgui.h"
 
 const int WIDTH = 300;

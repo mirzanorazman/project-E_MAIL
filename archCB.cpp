@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "labgui.h"
 
 void archCB(Fl_Button*,void*){

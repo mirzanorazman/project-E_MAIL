@@ -1,3 +1,4 @@
+// Author : Mirza Nor Azman
 
 #include "labgui.h"
 

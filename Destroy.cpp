@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "tree.h"
 void Destroy(TREENODE *root)
 {

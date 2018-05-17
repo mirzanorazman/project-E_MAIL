@@ -1,3 +1,5 @@
+// Author : Mirza Nor Azman
+
 #include "labgui.h"
 
 void logoutCB(Fl_Button*,void*){
